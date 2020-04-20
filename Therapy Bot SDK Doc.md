@@ -16,9 +16,9 @@
 
 | Name  | Description | Parameters | Returns |
 |---|---|---|---|
-| createQuestion(patientLine) | Returns a question based on the patient's line. | \-patientLine Type: string The patient's text to respond to. | Type: string A question based on the patient's line. |
-| lastChar(myString) | Returns the last character in a string. | \-myString Type: String String to return last character for. | Type: string Last character of the string. |
-| randomElement(myArray) | Returns a random element of an array. | \-myArray Type: array Array with one or more elements. | Type: whatever is in the array Random element from the array. |
+| createQuestion(patientLine) | Returns a question based on the patient's line. | \-patientLine<br> Type: string The patient's text to respond to. | Type: string A question based on the patient's line. |
+| lastChar(myString) | Returns the last character in a string. | \-myString<br> Type: String String to return last character for. | Type: string Last character of the string. |
+| randomElement(myArray) | Returns a random element of an array. | \-myArray<br> Type: array Array with one or more elements. | Type: whatever is in the array Random element from the array. |
 
 ### Enumerations
 
